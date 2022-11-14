@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A coffee loving developer from Stuttgart, Germany</h3>
 
-<p align="center"> <a href="https://twitter.com/glasspdev" target="blank"><img src="https://img.shields.io/twitter/follow/glasspdev?logo=twitter&style=for-the-badge" alt="glasspdev" /></a> <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue?style=for-the-badge"/> <a href="https://glassp.dev"><img src="https://img.shields.io/badge/Website-glassp.dev-informational?style=for-the-badge" /></a></p>
+<p align="center"> 
+  <a href="https://twitter.com/glasspdev" target="blank"><img src="https://img.shields.io/twitter/follow/glasspdev?logo=twitter&style=for-the-badge" alt="glasspdev" /></a> 
+  <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue?style=for-the-badge"/> 
+  <!--a href="https://glassp.dev"><img src="https://img.shields.io/badge/Website-glassp.dev-informational?style=for-the-badge" /></a-->
+</p>
 
 
 
