@@ -2,7 +2,7 @@
 <h3 align="center">A coffee loving developer from Stuttgart, Germany</h3>
 
 <p align="center"> 
-  <a href="https://twitter.com/glasspdev" target="blank"><img src="https://img.shields.io/twitter/follow/glasspdev?logo=twitter&style=for-the-badge" alt="glasspdev" /></a> 
+  <!--a href="https://twitter.com/glasspdev" target="blank"><img src="https://img.shields.io/twitter/follow/glasspdev?logo=twitter&style=for-the-badge" alt="glasspdev" /></a--> 
   <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-blue?style=for-the-badge"/> 
   <!--a href="https://glassp.dev"><img src="https://img.shields.io/badge/Website-glassp.dev-informational?style=for-the-badge" /></a-->
 </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/glasspdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glasspdev" height="30" width="40" /></a>
+<!--a href="https://twitter.com/glasspdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glasspdev" height="30" width="40" /></a-->
 <a href="https://instagram.com/glassp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="glassp" height="30" width="40" /></a>
 </p>
 
